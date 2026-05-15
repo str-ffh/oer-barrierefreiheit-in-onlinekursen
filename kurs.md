@@ -5,7 +5,7 @@ version:   0.0.1
 language:  de
 link:      false
 toc:       false
-home:      false
+home:      https://github.com/str-ffh/oer-barrierefreiheit-in-onlinekursen
 -->
 
 # Erster Versuch Github / Liacsript

@@ -3,6 +3,7 @@ author:    Reinhard Staudinger
 email:     reinhard.staudinger@fernfh.ac.at
 version:   0.0.1
 language:  de
+link:      false
 -->
 
 # Erster Versuch Github / Liacsript

@@ -4,6 +4,7 @@ email:     reinhard.staudinger@fernfh.ac.at
 version:   0.0.1
 language:  de
 link:      false
+toc:       false
 -->
 
 # Erster Versuch Github / Liacsript
